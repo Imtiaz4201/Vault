@@ -1,6 +1,10 @@
 class Main{
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        Wel wel = new Wel();
+        UserControl userControl = new UserControl();
+
+        wel.display();
+        userControl.run();
     }
 }
 
