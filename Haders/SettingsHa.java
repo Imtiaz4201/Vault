@@ -1,5 +1,5 @@
 package Haders;
 
-public class SettingsHa {
+interface SettingsHa {
     
 }
