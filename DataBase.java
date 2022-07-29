@@ -58,14 +58,17 @@ public class DataBase implements DBHa{
 
     }
 
+
     @Override
     public void insertUserData(){
 
     }
 
+
     private void modify(String type){
 
     }
+    
     private void delete(String type){
 
     }
